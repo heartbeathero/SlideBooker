@@ -1,0 +1,9 @@
+Als je hier een lijst maakt van bug fixes of TODO punten.
+Dan is het overzichtelijk wat er nog moet gebeuren hieraan.
+Dan kan ook iemand een punt kiezen en deze aanpassen
+of eventueele bug hier plaatsen.
+Of moet dat ergens anders?
+
+BUGS:
+
+TODO:
