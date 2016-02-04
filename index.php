@@ -17,6 +17,8 @@
 <p>Dit is een idee voor een nieuwe manier voor het boeken van uren.<br />
     Voor deze test is het aan te raden het venster fullscreen te maken zodat de timeline volledig in beeld past.</p>
 
+<p>test daniel</p>
+
 <ul>
     <li>Schuif de taken hieronder naar de tijdlijn beneden om de opdracht te gaan boeken</li>
     <li>Vervang de omschrijving van de taak door de tekst te selecteren en aan te passen</li>
